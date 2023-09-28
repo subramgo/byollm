@@ -6,8 +6,6 @@ from tensorflow.keras import layers
 import os
 
 
-
-
 def create_training_data():
     """
     """
